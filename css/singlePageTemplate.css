@@ -153,9 +153,12 @@ ul li:hover a {
 	height: 400px;
 	background-attachment: fixed;
 	background-size: cover;
-	background-repeat: no-repeat;
-	font-size: large;
-	font-size-adjust: inherit;
+	font-size: smaller;
+	font-style: normal;
+	font-weight: 200;
+	text-align: center;
+	color: #000000;
+	font-family: source-sans-pro;
 }
 .parallax {
 	color: #000000;
@@ -207,6 +210,7 @@ footer .footer_column p {
 	height: auto;
 	max-width: 400px;
 	max-height: 200px;
+	text-align: center;
 }
 footer .footer_column p {
 	padding-left: 30px;
