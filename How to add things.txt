@@ -1,7 +1,9 @@
 Duplicate 'Homepage' 
 make new page into Basic life etc.
-in 'links' do " ./File name.html
+in 'links' do " ./Filename.html
 Git Bash
+cd Desktop
+cd GitHubStuff
 git add .
 git commit -m "added File name"
 git push
