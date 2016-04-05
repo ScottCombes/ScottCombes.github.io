@@ -155,6 +155,7 @@ ul li:hover a {
 	background-size: cover;
 	background-repeat: no-repeat;
 	font-size: large;
+	font-size-adjust: inherit;
 }
 .parallax {
 	color: #000000;
@@ -163,6 +164,7 @@ ul li:hover a {
 	padding-top: 110px;
 	letter-spacing: 2px;
 	margin-top: 0px;
+	font-style: normal;
 }
 .parallax_description {
 	color: #000000;

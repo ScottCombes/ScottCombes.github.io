@@ -1,0 +1,11 @@
+Make changes in dreamweaver
+go to GitBash
+git add .
+git status
+git commit -m "added file"
+git status
+(No more red files)
+git push
+(Put in user name/ password)
+git status
+(branch up-to-date)
