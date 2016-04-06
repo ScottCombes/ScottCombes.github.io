@@ -162,7 +162,7 @@ ul li:hover a {
 }
 .parallax {
 	color: #000000;
-	text-align: right;
+	text-align: left;
 	padding-right: 100px;
 	padding-top: 110px;
 	letter-spacing: 2px;
@@ -210,7 +210,7 @@ footer .footer_column p {
 	height: auto;
 	max-width: 400px;
 	max-height: 200px;
-	text-align: center;
+	text-align: left;
 }
 footer .footer_column p {
 	padding-left: 30px;
