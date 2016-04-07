@@ -103,6 +103,7 @@ ul li:hover a {
 	letter-spacing: 1px;
 	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
 	font-size: 24px;
+	font-style: normal;
 }
 /* About Section */
 .text_column {
@@ -172,7 +173,7 @@ ul li:hover a {
 	font-weight: normal;
 	text-align: center;
 	color: #000000;
-	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
 }
 .parallax {
 	color: #000000;
@@ -225,7 +226,7 @@ footer .footer_column p {
 	max-width: 400px;
 	max-height: 200px;
 	text-align: left;
-	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
 }
 footer .footer_column p {
 	padding-left: 30px;
@@ -269,9 +270,11 @@ footer .footer_column p {
 	background-color: #960000;
 	color: #000000;
 	text-transform: uppercase;
-	font-weight: lighter;
+	font-weight: normal;
 	letter-spacing: 2px;
 	border-top-width: 2px;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+	font-size: 24px;
 }
 .footer_banner {
 	background-color: #000000;
