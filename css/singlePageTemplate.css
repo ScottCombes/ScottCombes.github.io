@@ -64,7 +64,7 @@ ul li:hover a {
 	color: #2C9AB7;
 }
 .hero_header {
-	color: #960000;
+	color: #FFFFFF;
 	text-align: center;
 	margin-top: 0px;
 	margin-right: 0px;
@@ -72,7 +72,7 @@ ul li:hover a {
 	margin-left: 0px;
 	letter-spacing: 4px;
 	font-size: 24px;
-	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
 	font-weight: normal;
 	font-style: normal;
 	line-height: normal;
@@ -96,12 +96,12 @@ ul li:hover a {
 }
 .tagline {
 	text-align: center;
-	color: #960000;
+	color: #FFFFFF;
 	margin-top: 4px;
 	font-weight: normal;
 	text-transform: uppercase;
 	letter-spacing: 1px;
-	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
 	font-size: 24px;
 }
 /* About Section */
@@ -225,6 +225,7 @@ footer .footer_column p {
 	max-width: 400px;
 	max-height: 200px;
 	text-align: left;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
 }
 footer .footer_column p {
 	padding-left: 30px;
