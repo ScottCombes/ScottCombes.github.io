@@ -71,6 +71,18 @@ ul li:hover a {
 	margin-bottom: 0px;
 	margin-left: 0px;
 	letter-spacing: 4px;
+	font-size: 24px;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-weight: normal;
+	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+	text-transform: none;
+	text-decoration: none;
+	background-color: #000000;
+	background-image: none;
+	border-style: none;
+	border-width: medium;
 }
 /* Hero Section */
 .hero {
@@ -86,9 +98,11 @@ ul li:hover a {
 	text-align: center;
 	color: #960000;
 	margin-top: 4px;
-	font-weight: bolder;
+	font-weight: normal;
 	text-transform: uppercase;
 	letter-spacing: 1px;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-size: 24px;
 }
 /* About Section */
 .text_column {
@@ -153,12 +167,12 @@ ul li:hover a {
 	height: 400px;
 	background-attachment: fixed;
 	background-size: cover;
-	font-size: large;
+	font-size: 24;
 	font-style: normal;
-	font-weight: 200;
+	font-weight: normal;
 	text-align: center;
 	color: #000000;
-	font-family: source-sans-pro;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
 }
 .parallax {
 	color: #000000;
