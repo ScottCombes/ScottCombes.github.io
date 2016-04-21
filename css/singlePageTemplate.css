@@ -25,7 +25,8 @@ body {
 	-webkit-transform: rotate(90dedg);
 }
 .container .snow {
-	-webkit-transform: rotate(90deg);
+	-webkit-transform: rotate(-90deg);
+	width: 90%;
 }
 .container .outlook {
 	-webkit-transform: rotate(90deg);
